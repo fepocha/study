@@ -87,6 +87,17 @@
 
 ### oywI
 
+**계획**
+
+* CI/CD 툴의 종류와 개념 익히기
+* 도커와 쿠버네티스 입문하기
+
+**study**
+
+[독서: IT 운용 체제 변화를 위한 데브옵스](https://github.com/imhojang/til/blob/master/devops/devops-for-change-in-it-operations.md)
+[devops_dictionary](https://github.com/imhojang/til/blob/master/devops/devops_dictionary.md)
+[learning-docker-0](https://github.com/imhojang/til/blob/master/devops/devops_dictionary.md)
+
 ### Ilwoo
 
 ### dwook 
