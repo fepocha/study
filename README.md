@@ -24,6 +24,7 @@
 종로 위워크에서 발표
 
 ### juyeonH
+---
 
 **계획**
 
@@ -39,6 +40,7 @@
 * Github - redux-saga와 toolkit : https://github.com/jy7123943/redux-saga-practice/tree/redux-toolkit/src
 
 ### myeongwon
+---
 
 **계획**
 
@@ -69,6 +71,7 @@
 * 발표자료: [1차 스터디 리뷰](https://www.notion.so/1-561c9704b49e4fcdbd775d630de1d63c)
 
 ### sla
+---
 
 **계획**
 
@@ -84,8 +87,10 @@
 * 발표자료: https://docs.google.com/presentation/d/18HEwk5PpUh2vxAYn3Ej6EYcNXYOiV3-8ZNGnPq1fPwk/edit?usp=sharing
 
 ### kangsally
+---
 
 ### oywI
+---
 
 **계획**
 
@@ -99,5 +104,8 @@
 [learning-docker-0](https://github.com/imhojang/til/blob/master/devops/devops_dictionary.md)
 
 ### Ilwoo
+---
 
 ### dwook 
+---
+
