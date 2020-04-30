@@ -89,6 +89,20 @@
 ### kangsally
 ---
 
+**계획**
+
+* 1주차: rxjs 기본 개념 (promise와 차이, subject, observable 등)
+* 2주차: rxjs operator 공부
+* 3주차: rxjs를 이용한 프로젝트 만들기
+* 4주차: rxjs를 이용한 프로젝트 만들기 및 정리
+
+**study**
+
+* [operator1](https://sally-space.tistory.com/3)
+* [operator2](https://sally-space.tistory.com/4)
+* [auto-complete-ui 프로젝트](https://github.com/kangsally/auto-complete-UI)
+* [RxJS란?(발표내용 정리)](https://sally-space.tistory.com/5)
+
 ### oywI
 ---
 
