@@ -126,13 +126,12 @@
 1. 장고 프레임워크를 사용한 사이트 만들어 배포 (바코에서 만든 폼투도어를 장고버전으로 만들기)
 1주차 (일, 3/22) ~ (토, 3/28) : 장고프레임워크를 사용한 사이트 제작
 2주차 (일, 3/29) ~ (토, 3/4) :  장고프레임워크를 사용한 사이트 배포
-- 달성여부 : 
-[배포한 사이트](http://cabin-dev.ap-northeast-2.elasticbeanstalk.com/)
 
-2. 장고 Model, View 개념과 몰랐던 부분 정리해서 포스팅
+2. 장고 Model, Form 개념과 몰랐던 부분 정리해서 포스팅
 3주차 (일, 3/5) ~ (토, 3/11) : 장고 Model 정리
-4주차 (일, 3/12) ~ (토, 3/18) : 장고 View 정리
-- 달성여부 : 
-[장고 Model](https://app.gitbook.com/@dwook/s/project/django/model) 
-[장고 Form](https://app.gitbook.com/@dwook/s/project/django/form)
+4주차 (일, 3/12) ~ (토, 3/18) : 장고 Form 정리
 
+**study**
+* [배포한 사이트](http://cabin-dev.ap-northeast-2.elasticbeanstalk.com/)
+* [장고 Model](https://app.gitbook.com/@dwook/s/project/django/model) 
+* [장고 Form](https://app.gitbook.com/@dwook/s/project/django/form)
